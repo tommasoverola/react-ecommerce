@@ -17,7 +17,6 @@ Welcome to my E-commerce App! This project is a dummy e-commerce application bui
 - **TypeScript:** A statically typed superset of JavaScript that enhances code quality and developer productivity.
 - **Redux Toolkit:** A simplified state management library for managing application state efficiently.
 
-
 ## Getting Started
 
 1. Clone this repository to your local machine.
@@ -27,3 +26,8 @@ Welcome to my E-commerce App! This project is a dummy e-commerce application bui
 5. cd backed
 6. Install dependencies using `npm install`.
 7. Start the node server using `npm run start-auth`.
+
+## run tests
+
+1. Install dependencies using `npm install`.
+2. run `npm test`.
