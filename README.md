@@ -27,6 +27,11 @@ Welcome to my E-commerce App! This project is a dummy e-commerce application bui
 6. Install dependencies using `npm install`.
 7. Start the node server using `npm run start-auth`.
 
+## Sign in credentials
+
+- email: <bruno@email.com>
+- pwd: bruno
+
 ## run tests
 
 1. Install dependencies using `npm install`.
